@@ -1,0 +1,33 @@
+Source,Destinaton,Stops,Date of Journey,Departure Time,Arrival Time,Company,Fare
+Dehradun,Delhi,non stop,01-11-2017,1600,800,SpiceJet,1532
+Dehradun,Delhi,non stop,01-11-2017,500,723,Jet Airways,3815
+Delhi,Dehradun,non stop,11-11-2017,1030,1200,SpiceJet,2019
+Delhi,Mumbai,1 stop,03-11-2017,1500,1800,Air India,3031
+Dehradun,Mumbai,1 stop,31-10-2017,1700,2130,Indigo,5591
+Mumbai,Dehradun,1 stop,31-10-2017,1430,1600,SpiceJet,13024
+Mumbai,Hyderabad,1 stop,31-10-2017,1700,2000,Indigo,9000
+Dehradun,Hyderabad,1 stop,31-10-2017,1900,0,SpiceJet,8690
+Hyderabad,Dehradun,1 stop,31-10-2017,1900,2325,Jet Airways,4556
+Hyderabad,Bangalore,1 stop,31-10-2017,2300,35,SpiceJet,11550
+Dehradun,Bangalore,1 stop,31-10-2017,2130,120,Air India,6650
+Bangalore,Dehradun,1 stop,31-10-2017,2215,230,SpiceJet,8409
+Bangalore,Delhi,non stop,31-10-2017,2100,800,Indigo,3768
+Mumbai,Delhi,non stop,31-10-2017,600,723,Indigo,9251
+Delhi ,Mumbai,non stop,03-11-2017,1230,1200,SpiceJet,8500
+Delhi ,Bangalore,non stop,31-10-2017,1030,1800,Indigo,8110
+Mumbai,Bangalore,non stop,31-10-2017,1500,2130,Go Air,4000
+Bangalore,Mumbai,non stop,31-10-2017,1215,1600,Air India,4771
+Bangalore,Hyderabad,non stop,31-10-2017,1430,2000,Jet Airways,4980
+Mumbai,Hyderabad,non stop,06-11-2017,1700,0,Indigo,2500
+Mumbai,Mumbai,non stop,31-10-2017,1900,2325,Go Air,4356
+Mumbai,Hyderabad,non stop,06-11-2017,1350,35,Indigo,3140
+Hyderabad,Delhi,non stop,31-10-2017,1900,120,Air India,3670
+banalore,delhi,non stop,31-10-2017,2300,230,jet airways,4000
+delhi ,bangalore,non stop,31-10-2017,2300,800,spicejet,3078
+delhi ,hyderabad,non stop,31-10-2017,2215,723,air india,3690
+banalore,hyderabad,non stop,31-10-2017,2100,1200,indigo,1900
+banalore,bangalore,non stop,31-10-2017,600,1800,air india,2280
+hyderabad,bangalore,non stop,31-10-2017,500,2130,go air,3210
+hyderabad,delhi,non stop,31-10-2017,1230,1600,indigo,2890
+hyderabad,delhi,non stop,31-10-2017,1030,2000,air india,3000
+delhi ,hyderabad,non stop,31-10-2017,1700,0,jet airways,3410

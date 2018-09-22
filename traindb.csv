@@ -1,0 +1,22 @@
+SOURCE ,DESTINATION,DATE OF JOURNEY,TIME OF DEPARTURE,PRICE ,Class
+Dehradun,Delhi,01-11-2017,600,1540,2AC
+Dehradun,Delhi,31-10-2017,500,340,Sleeper
+Dehradun,Delhi,01-11-2017,1230,980,3AC
+Dehradun,Delhi,31-10-2017,1030,410,Sleeper
+Delhi,Mumbai,03-11-2017,1500,980,3AC
+Delhi,Dehradun,31-10-2017,1700,1540,2AC
+Delhi,Mumbai,03-11-2017,1215,410,Sleeper
+Delhi,Dehradun,31-10-2017,1430,980,3AC
+Delhi,Dehradun,31-10-2017,1700,410,Sleeper
+Mumbai,Hyderabad,06-11-17,1900,2900,2AC
+Mumbai,Hyderabad,31-12-17,1350,800,Sleeper
+Mumbai,Hyderabad,06-11-17,1900,1960,3AC
+Mumbai,Hyderabad,31-12-17,2300,880,Sleeper
+Hyderabad,Mumbai,31-12-17,2130,2900,2AC
+Hyderabad,Mumbai,31-12-17,2300,880,Sleeper
+Banglore,Hyderabad,31-12-17,2215,2800,3AC
+Banglore,Hyderabad,31-12-17,2100,4550,2AC
+Banglore,Hyderabad,31-12-17,2130,1600,Sleeper
+Hyderabad,Banglore,31-12-17,2300,1600,Sleeper
+Hyderabad,Banglore,31-12-17,2215,2800,3AC
+Hyderabad,Banglore,31-12-17,2100,1600,Sleeper
